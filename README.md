@@ -33,8 +33,8 @@ The main aim of this assignment is to simulate real-world data management and an
 
 ## 🛠️ Tools Used
 
-- **SQL Server / MySQL** (or whichever you used)
-- **DBMS GUI Tool** (e.g., SSMS, DBeaver, MySQL Workbench)
+- **Microsoft SQL Server Management Studio (SSMS)**  
+- **SQL Server**
 
 ---
 
